@@ -57,9 +57,7 @@ email address or ORCID}
 \maketitle
 
 \begin{abstract}
-This document is a model and instructions for \LaTeX.
-This and the IEEEtran.cls file define the components of your paper [title, text, heads, etc.]. *CRITICAL: Do Not Use Symbols, Special Characters, Footnotes, 
-or Math in Paper Title or Abstract.
+Recent EEG foundation models have shown promising capability in learning generalizable representations from large-scale unlabeled EEG recordings. However, substantial inter-subject variability still limits their direct deployment to downstream EEG tasks, where subject-specific adaptation is often required for reliable performance. This practice produces one adapted model per subject, leading to rapidly increasing storage and deployment costs in large-subject scenarios. To address this limitation, we investigate training-free post-hoc merging of subject-adapted EEG foundation models. Given multiple subject-specific models adapted from the same pretrained EEG foundation model, the goal is to obtain a single unified model while preserving subject-level performance. We propose a subject-wise weighted model merging strategy, which assigns different merging weights to different subject-adapted models to reduce weight-space conflicts induced by inter-subject distribution shifts. Experiments on two motor imagery EEG benchmarks, BNCI2014004 and BNCI2015001, show that the proposed method achieves average accuracies of 80.52\% and 75.00\%, outperforming standard weight averaging by 1.88\% and 2.02\%, respectively. Compared with the average cross-subject transfer performance of individual subject-adapted models, the proposed merged model further improves accuracy by 6.60\% and 10.90\% on the two datasets. Although fully individualized subject-specific models remain a strong empirical upper-bound solution, the proposed method substantially narrows the performance gap while requiring only one deployed model. These results demonstrate that training-free post-hoc model merging is a promising strategy for scalable and storage-efficient deployment of EEG foundation models.
 \end{abstract}
 
 \begin{IEEEkeywords}
