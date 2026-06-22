@@ -140,16 +140,7 @@ Finally, the current method intentionally stays simple. It uses a single scalar 
 \section{Conclusion}
 This paper studies training-free post-hoc merging of subject-adapted EEG foundation models for scalable multi-subject deployment. We formulate the problem at the parameter level and propose a subject-wise weighted merging strategy that modulates how much each subject adaptation contributes to the final unified model. Experiments on BNCI2014004 and BNCI2015001 show that the proposed method consistently outperforms standard averaging baselines and substantially reduces the gap to fully individualized deployment while requiring only one deployed checkpoint. These results suggest that model merging is a promising direction for storage-efficient and scalable EEG foundation model deployment.
 
-\begin{thebibliography}{00}
-\bibitem{b1} A. Kostas, S. Aroca-Ouellette, and F. Rudzicz, ``BENDR: using transformers and large-scale pretraining to generalize across EEG datasets,'' \emph{arXiv preprint arXiv:2101.12037}, 2021.
-\bibitem{b2} H. Jiang \emph{et al.}, ``LaBraM: large brain model for learning generic representations with tremendous EEG data in BCI,'' \emph{arXiv preprint arXiv:2405.18765}, 2024.
-\bibitem{b3} Z. Wang \emph{et al.}, ``CBraMod: a criss-cross brain foundation model for EEG decoding,'' \emph{arXiv preprint arXiv:2412.07236}, 2024.
-\bibitem{b4} M. Wortsman, P. J. Liu, G. Ilharco, M. R. Gadre, R. Roelofs, S. S. Kale, A. S. Morcos, H. Namkoong, A. Farhadi, S. Kornblith, and L. Schmidt, ``Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time,'' in \emph{Proc. ICML}, 2022, pp. 23965--23998.
-\bibitem{b5} G. Ilharco, M. T. Ribeiro, M. Wortsman, S. Gururangan, H. Hajishirzi, A. Farhadi, and L. Schmidt, ``Editing models with task arithmetic,'' in \emph{Proc. ICLR}, 2023.
-\bibitem{b6} S. K. Ainsworth, J. Hayase, and S. Srinivasa, ``Git re-basin: merging models modulo permutation symmetries,'' in \emph{Proc. ICLR}, 2023.
-\bibitem{b7} T. Garipov, P. Izmailov, D. Podoprikhin, D. Vetrov, and A. G. Wilson, ``Loss surfaces, mode connectivity, and fast ensembling of DNNs,'' in \emph{Proc. NeurIPS}, 2018, pp. 8789--8798.
-\bibitem{b8} K.-R. Muller-Putz \emph{et al.}, ``BCI Competition 2008---Graz data set B,'' \emph{Institute for Knowledge Discovery, Graz University of Technology}, 2008.
-\bibitem{b9} J. Faller, C. Vidaurre, T. Solis-Escalante, C. Neuper, and R. Scherer, ``Autocalibration and recurrent adaptation: towards a plug and play online ERD-BCI,'' \emph{IEEE Trans. Neural Syst. Rehabil. Eng.}, vol. 20, no. 3, pp. 313--319, 2012.
-\end{thebibliography}
+\bibliographystyle{IEEEtran}
+\bibliography{reference}
 
 \end{document}

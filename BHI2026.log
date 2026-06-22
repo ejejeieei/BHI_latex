@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.6.19)  22 JUN 2026 00:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.6.19)  22 JUN 2026 14:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -340,7 +340,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 55.
 
 (e:/texlive/2026/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [2] [3]
+) [2] (./BHI2026.bbl
+[3])
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -361,10 +362,10 @@ L3 programming layer <2026-05-26>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4258 strings out of 467167
- 65685 string characters out of 5413691
- 498681 words of memory out of 5000000
- 33483 multiletter control sequences out of 15000+600000
+ 4271 strings out of 467167
+ 65893 string characters out of 5413691
+ 499141 words of memory out of 5000000
+ 33493 multiletter control sequences out of 15000+600000
  668039 words of font info for 114 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,8n,65p,1799b,279s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -379,7 +380,7 @@ fb><e:/texlive/2026/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><e:/texlive/202
 6/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><e:/texlive/2026/texmf-dist/font
 s/type1/urw/times/utmr8a.pfb><e:/texlive/2026/texmf-dist/fonts/type1/urw/times/
 utmri8a.pfb>
-Output written on BHI2026.pdf (4 pages, 151558 bytes).
+Output written on BHI2026.pdf (4 pages, 151192 bytes).
 PDF statistics:
  78 PDF objects out of 1000 (max. 8388607)
  47 compressed objects within 1 object stream
