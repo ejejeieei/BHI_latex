@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.6.19)  22 JUN 2026 14:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.6.19)  23 JUN 2026 17:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -280,41 +280,47 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@lastruleclass=\count310
 \@thisrulewidth=\dimen197
 )
+(e:/texlive/2026/texmf-dist/tex/latex/sttools/stfloats.sty
+Package: stfloats 2025/06/18 v3.4 Improve float mechanism and baselineskip sett
+ings
+\@dblbotnum=\count311
+\c@dblbotnumber=\count312
+)
 (e:/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2026-02-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count311
+\l__color_backend_stack_int=\count313
 )
 (./BHI2026.aux)
 \openout1 = `BHI2026.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
 
 -- Lines per column: 56 (exact).
 (e:/texlive/2026/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count312
+\scratchcounter=\count314
 \scratchdimen=\dimen198
 \scratchbox=\box57
-\nofMPsegments=\count313
-\nofMParguments=\count314
+\nofMPsegments=\count315
+\nofMParguments=\count316
 \everyMPshowfont=\toks24
-\MPscratchCnt=\count315
+\MPscratchCnt=\count317
 \MPscratchDim=\dimen199
-\MPnumerator=\count316
-\makeMPintoPDFobject=\count317
+\MPnumerator=\count318
+\makeMPintoPDFobject=\count319
 \everyMPtoPDFconversion=\toks25
 ) (e:/texlive/2026/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -324,24 +330,38 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 (e:/texlive/2026/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
-)) [1{e:/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{e:/texlive/
-2026/texmf-dist/fonts/enc/dvips/base/8r.enc}
-
-
-]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 55.
+))
+LaTeX Font Info:    Trying to load font information for U+msa on input line 41.
 
 
 (e:/texlive/2026/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 55.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 41.
 
 
 (e:/texlive/2026/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [2] (./BHI2026.bbl
-[3])
+) [1{e:/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{e:/texlive/2
+026/texmf-dist/fonts/enc/dvips/base/8r.enc}
+
+
+]
+<figures/cross_subject_compatibility.png, id=15, 1482.4986pt x 362.5545pt>
+File: figures/cross_subject_compatibility.png Graphic file (type png)
+<use figures/cross_subject_compatibility.png>
+Package pdftex.def Info: figures/cross_subject_compatibility.png  used on input
+ line 112.
+(pdftex.def)             Requested size: 557.28094pt x 136.28952pt.
+ [2] [3 <./figures/cross_subject_compatibility.png>]
+<figures/beta_sweep_curves.png, id=27, 767.0256pt x 311.7246pt>
+File: figures/beta_sweep_curves.png Graphic file (type png)
+<use figures/beta_sweep_curves.png>
+Package pdftex.def Info: figures/beta_sweep_curves.png  used on input line 168.
+
+(pdftex.def)             Requested size: 246.95892pt x 100.36273pt.
+
+[4 <./figures/beta_sweep_curves.png>] (./BHI2026.bbl)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -353,7 +373,7 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[4
+[5
 
 ] (./BHI2026.aux)
  ***********
@@ -362,28 +382,29 @@ L3 programming layer <2026-05-26>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4271 strings out of 467167
- 65893 string characters out of 5413691
- 499141 words of memory out of 5000000
- 33493 multiletter control sequences out of 15000+600000
+ 4329 strings out of 467167
+ 67459 string characters out of 5413691
+ 499542 words of memory out of 5000000
+ 33547 multiletter control sequences out of 15000+600000
  668039 words of font info for 114 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,8n,65p,1799b,279s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,9n,65p,1799b,279s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <e:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><e:/tex
 live/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><e:/texlive/2026
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><e:/texlive/2026/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr10.pfb><e:/texlive/2026/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmr7.pfb><e:/texlive/2026/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmsy10.pfb><e:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmsy7.pfb><e:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.p
-fb><e:/texlive/2026/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><e:/texlive/202
-6/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><e:/texlive/2026/texmf-dist/font
-s/type1/urw/times/utmr8a.pfb><e:/texlive/2026/texmf-dist/fonts/type1/urw/times/
-utmri8a.pfb>
-Output written on BHI2026.pdf (4 pages, 151192 bytes).
+t/fonts/type1/public/amsfonts/cm/cmmi8.pfb><e:/texlive/2026/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr10.pfb><e:/texlive/2026/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr7.pfb><e:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr8.pfb><e:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
+b><e:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><e:/texl
+ive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><e:/texlive/2026/t
+exmf-dist/fonts/type1/urw/times/utmb8a.pfb><e:/texlive/2026/texmf-dist/fonts/ty
+pe1/urw/times/utmbi8a.pfb><e:/texlive/2026/texmf-dist/fonts/type1/urw/times/utm
+r8a.pfb><e:/texlive/2026/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on BHI2026.pdf (5 pages, 672291 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
- 47 compressed objects within 1 object stream
+ 96 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
